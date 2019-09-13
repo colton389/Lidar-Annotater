@@ -2,6 +2,7 @@
 Code for viewing videos and adding annotations
 
 - Requires npm and Node js installed
+    > On Linux, enter command "install npm" to install npm (haventtried using on windows yet)
 - Use command "npm start" (without quotes) inside the root folder to run the program
 - Add directory selects where the program will print output too as well as where it will look for the videos
 - Videos MUST be named "vidA.mp4" and "vidB.mp4"
