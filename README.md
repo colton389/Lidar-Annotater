@@ -1,2 +1,2 @@
 # Lidar-Annotater
-Code for adding viewing videos and adding annotations
+Code for viewing videos and adding annotations
